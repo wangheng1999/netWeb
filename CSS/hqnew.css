@@ -1,0 +1,81 @@
+﻿/* CSS Document */
+ *{ padding:0px; margin:0px; list-style:none; font-size:12px;}
+img{ border:0px;}
+.hqnewmod{float:left;overflow:hidden;background:#f7f7f7 url() no-repeat 0px 170px; border:1px solid #ccc; padding:12px 10px 14px 10px; font-size:12px; line-height:normal; height:212px; width:277px;}
+.hqnewmod a{ color:#000; text-decoration:none}.hqnewmod a:hover{ color:#c00; text-decoration:underline}
+
+.hqnmenu{ width:52px; float:left; padding-top:3px; }
+.hqnmenu li{width:42px; height: 16px; background:url(../img/libg.gif) no-repeat left bottom; line-height: normal; padding:4px 0 0 11px; margin-bottom:6px; cursor: pointer;}
+.hqnmenu li a:hover{ text-decoration:none}
+.hqnmenu li.current{ background:url(../img/libg.gif) no-repeat left top; color:#fff}
+.hqnmenu li.current a{ color:#fff;}
+
+.hqncont{ border:1px solid #b0272e; float:left; width:214px; height:205px; padding:5px 4px 0 4px; background:#fff; overflow:hidden}
+.hqntab{ border: solid #cbcdcc; border-width:1px 1px 0 0; line-height:25px; height:25px; width:213px; background:url(../img/line.gif) repeat-x bottom #f0f0f0; }
+.hqntab li a:hover{ text-decoration:none}
+.hqntab li{ float:left; text-align:center; border-left:1px solid #cbcdcc; width:34px; cursor:pointer; height:25px; overflow:hidden; line-height:25px;}
+.hqntab li a{ line-height:25px;}
+.hqntab li.current{ background:#fff}
+.hqnsbox{ background:url(../img/searchbg.gif) no-repeat; height:25px; text-align:center; padding-top:4px;}
+.hqnsbox .hqtxt{ border:1px solid #ccc; height:19px; line-height:19px; width:142px; padding:0px 4px; float:left; margin:0px 0 0 5px; display:inline}
+.hqntab01{ border:solid #b7b7b7; border-width:1px 0 1px 0; margin:4px 0}
+.hqntab01 td{ border-top:1px solid #dbdbdb; line-height:16px; text-align:center; background:url(../img/lineh.gif) repeat-y left top; padding-top:2px;}
+.hqntab01 td.left{ text-align:left;background:none}
+.hqntab01 td.left div{ width:62px; height:16px; overflow:hidden; padding:0 5px;}
+.hqntab01 td.left div.w110{width:109px; padding:0px 2px; overflow:hidden}
+.hqntab01 td.left div.w95{width:110px; padding:0px 2px;  }
+.hqntab01 th{ line-height:16px; color:#666; font-weight:normal;background:url(../img/lineh.gif) repeat-y left top; padding-top:3px; }
+.hqntab01 th.left{background:none}
+.hqnbtn{ text-align:right;}
+.hqnbtn span{ float:left}
+.hqnbtnli{ margin-top:2px;}
+.hqnbtnli li{ text-align: center; float:left; margin:6px 3px 0 0; display:inline }
+.hqnbtnli li.end{margin-right:0px;}
+.hqnbtnli li a{width:67px; height:20px; border:1px solid #ccc; display:block; line-height:20px; background:url(../img/btnbg.gif) repeat-x bottom;}
+.hqnbtnli li.w104 a{ width:103px;}
+.hqnbtnli li a:hover{ background:url(../img/btnbg.gif) repeat-x top; color:#000; text-decoration:none; border:1px solid #95bed4}
+.hqcd0{ color:#cd0001}
+.hq197{ color:#197802}
+.hqb2b{ color:#b2b2b2}
+.hqnlist{ margin-top:7px; color:#676767}
+.hqnlist li{ margin-top:3px;}
+.hqnlist td{ text-align:center;}
+.hqbtn{ background:url(../img/btnbg.gif) repeat-x bottom #fff; width:72px; height:17px; cursor:pointer; border:1px solid #b3b3b3}
+h3.zqtit{ font-weight:normal; clear:both; height:20px; line-height:20px; padding-top:4px; background:url(../img/h3ico.gif) no-repeat 0px 7px; padding-left:14px; color:#666}
+.hqndata ul.hqnbtnli{ margin-top:-6px; width:214px; overflow:hidden}
+.hqndata ul li a{ height:17px; padding-top:0px; line-height:17px;}
+
+.star{color:#C66C20}
+.fbsjj06{background-color:#F9F2EC}
+.hqnewmod{
+	padding-top:0px;
+	position:absolute;
+	height:217px;
+	border:0px;
+	width:278px;
+	background: #f1f1f1;
+	padding-bottom:0;
+	left: -1px;
+}
+
+
+
+
+/*110428 增加*/
+h3.tit{ background:url(../img/icol.gif) no-repeat 0 8px; font-weight:normal; font-size:12px; padding:4px 0 0 10px; line-height:normal; line-height:17px;}
+h3.tit img{ float:right}
+.vipt01{ border:solid #cacccb; border-width:1px 0 0px 0; margin:4px 0 2px 0 }
+.vipt01 td{ border-bottom:1px solid #cacccb; line-height:16px; text-align:center; border-left:1px solid #cacccb; padding:2px 0 0 0;}
+.vipt01 td.left{ text-align:left; border-left:0px; padding-left:3px;}
+.vipt01 td.left div{ height:16px; overflow:hidden;}
+.vipt01 th{ line-height:16px; font-weight:normal; border-left:1px solid #cacccb; padding:3px 0px; background:url(img/thbg.gif) repeat-x bottom;}
+.vipt01 th.left{border-left:0px; }
+.vipt01 .tr{ text-align:right; padding-right:5px;}
+.seach{ margin-top:5px;}
+.seach p{ margin-top:2px; height:22px; overflow:hidden}
+.seach img{ float:left}
+.seach input{ border:1px solid #ccc; height:19px; float:left; line-height:19px; padding:0px 3px; margin-right:8px; display:inline; width:152px;}
+.f00{ color:#f00}
+.vipbtnli{ overflow:hidden; width:213px; margin:1px 0 0px 0}
+.vipbtnli li{ float:left; background:url(img/btnbg2.gif) no-repeat right 0; height:22px; line-height:21px;padding-right:6px;*padding-right:6px;_padding-right:5px; margin-right:5px; display:inline}
+.vipbtnli li i{ float:left; height:19px; background:url(img/btnbg2.gif) no-repeat 0 0; width:6px;*width:6px;_width:5px;}

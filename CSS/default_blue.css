@@ -1,0 +1,17 @@
+﻿/*default blue*/
+.SonlineBox{ width:97px; font-size:12px;overflow:hidden; z-index:9999;}
+.SonlineBox .openTrigger{ width:30px; height:110px; position:absolute; top:0px;  z-index:1; cursor:pointer;  background:#0176ba url(../images/openTrigger.jpg) no-repeat;}
+.SonlineBox .titleBox{ width:95px; height:25px; line-height:25px; background:#038bdc url(../images/SonlineTitleBg.gif) repeat-x; border-bottom:1px solid #0176ba;}
+.SonlineBox .titleBox span{ margin-left:10px; color:#fff; font-size:12px; font-family:'微软雅黑','宋体';}
+.SonlineBox .contentBox{ width:95px; height:auto; border:1px solid #0176ba; background:#fff; position:absolute; z-index:2;}
+.SonlineBox .contentBox .closeTrigger{ width:25px; height:25px; display:block; cursor:pointer;  position:absolute; top:0px;right:0px;-webkit-transition:all 0.8s ease-out;}
+.SonlineBox .contentBox .closeTrigger:hover{-webkit-transform:scale(1) rotate(360deg);}
+.SonlineBox .contentBox .listBox{overflow:hidden; margin-bottom:10px;}
+.SonlineBox .contentBox .listBox .QQList{ display:block; width:86%; line-height:20px; height:50px; margin:5px auto 0px auto; border-bottom:#e4e4e4 solid 1px;  font-family:'微软雅黑','宋体'; color:#333;}
+.SonlineBox .contentBox .listBox .QQList span{float:left; line-height:22px;}
+.SonlineBox .contentBox .listBox .QQList a{float:left;}
+
+
+
+
+
