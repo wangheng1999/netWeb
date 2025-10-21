@@ -1,0 +1,21 @@
+User-agent: *
+Disallow:
+Disallow:/App_Code/
+Disallow:/App_Data/
+Disallow:/Backup/
+Disallow:/Bin/
+Disallow:/Check/
+Disallow:/CSS/
+Disallow:/images/
+Disallow:/js/
+Disallow:/qz_ueditor/
+Disallow:/qzkeyAdmin/
+Disallow:/Upload/
+Disallow:/UserControls/
+Disallow:/m/Check/
+Disallow:/m/css/
+Disallow:/m/fonts/
+Disallow:/m/images/
+Disallow:/m/js/
+Disallow:/m/UserControls/
+Sitemap:/sitemap.xml
